@@ -1,6 +1,6 @@
 #include <iostream> // file header
 
-using namespace std; // fungsi khusus/wajib yang harus ada atau di tambahkan jika menggunakan file header <iostream>
+using namespace std;
 
 int main() {
   float a,b,hasil; // deklarasi variable a,b,hasil
